@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JRaePhotos]]></title>
         <description><![CDATA[JRaePhotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jraephotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 02:39:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 02:39:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jraephotos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jraephotos/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">49a8d44d-3f9c-44e2-a1fc-58b932809c3f</guid>
-            <pubDate>Tue, 20 Oct 2015 02:37:57 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2015 02:38:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
